@@ -145,7 +145,7 @@ This dashboard helps businesses:
 <img width="1878" height="1262" alt="Overview" src="https://github.com/user-attachments/assets/0db370fb-4c39-4fdc-a1b2-80e6083f349b" />
 
 
-## Customer Analysis\
+## Customer Analysis
 <img width="2089" height="1256" alt="Customer_analysis" src="https://github.com/user-attachments/assets/06a7c523-d2f8-4211-954d-8c64a63d6dde" />
 
 
