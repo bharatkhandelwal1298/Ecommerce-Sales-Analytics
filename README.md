@@ -14,6 +14,7 @@ The goal of this project is to identify business insights related to:
 - Regional Analysis
 
 The project includes:
+
 ✔ Data Cleaning  
 ✔ Exploratory Data Analysis (EDA)  
 ✔ SQL Business Queries  
